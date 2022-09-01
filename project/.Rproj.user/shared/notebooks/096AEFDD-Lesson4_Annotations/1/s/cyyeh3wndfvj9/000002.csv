@@ -1,0 +1,2 @@
+"0","mindate <- min(hotel_bookings$arrival_date_year)"
+"0","maxdate <- max(hotel_bookings$arrival_date_year)"
